@@ -9,7 +9,7 @@ This app is a weather forecast and shows how developers can use the API. I used 
 <a href="https://pub.dev/packages/flutter_spinkit" target="_blank">Visit Circular Progress Indicator Package</a><br>
 <a href="https://pub.dev/packages/location" target="_blank">Visit Location Package</a><br>
 <a href="https://pub.dev/packages/http" target="_blank">Visit HTTP Package</a><br>
-<a href="https://pub.dev/packages/google_font" target="_blank">Visit Font Package</a><br>
+<a href="https://pub.dev/packages/google_fonts" target="_blank">Visit Font Package</a><br>
 
 <h2> Used Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "42"> </h2>
 <div class="row">
